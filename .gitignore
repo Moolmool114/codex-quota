@@ -1,0 +1,10 @@
+node_modules/
+dist/
+src-tauri/target/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
