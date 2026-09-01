@@ -1,10 +1,35 @@
-# Codex Quota
+<p align="center">
+  <img src="docs/assets/social-preview.png" alt="Codex Quota — Codex usage monitoring for Windows" width="100%">
+</p>
+
+<h1 align="center">Codex Quota</h1>
+
+<p align="center">
+  <strong>A beautiful, lightweight, privacy-first Codex quota monitor for Windows.</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Moolmool114/codex-quota/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/Moolmool114/codex-quota?style=flat-square&color=2563eb"></a>
+  <a href="https://github.com/Moolmool114/codex-quota/releases/latest"><img alt="Downloads" src="https://img.shields.io/github/downloads/Moolmool114/codex-quota/total?style=flat-square&color=2563eb"></a>
+  <a href="LICENSE"><img alt="MIT license" src="https://img.shields.io/github/license/Moolmool114/codex-quota?style=flat-square"></a>
+  <img alt="Windows 10 and 11" src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078d4?style=flat-square&logo=windows11&logoColor=white">
+  <img alt="Built with Tauri" src="https://img.shields.io/badge/Tauri-2-24c8db?style=flat-square&logo=tauri&logoColor=white">
+</p>
+
+<p align="center">
+  <a href="https://github.com/Moolmool114/codex-quota/releases/latest"><strong>Download for Windows</strong></a>
+  · <a href="#features">Features</a>
+  · <a href="#privacy">Privacy</a>
+  · <a href="#简体中文">简体中文</a>
+</p>
 
 An animated, privacy-first Windows desktop viewer for local Codex usage limits, 5-hour quota, weekly quota, and reset countdowns.
 
-[简体中文](#简体中文) · [Download for Windows](../../releases/latest) · [Build from source](#build-from-source)
-
 > Codex Quota is an independent open-source community project. It is not affiliated with or endorsed by OpenAI.
+
+## Preview
+
+Codex Quota keeps the important numbers visible in a compact Windows Acrylic dashboard: remaining quota, reset countdowns, source status, and observation time. The interface scales from a small always-on-top widget to a full dashboard and supports both light and dark environments.
 
 ## Why Codex Quota?
 
@@ -27,7 +52,7 @@ Codex shows usage information inside its interface, but a small always-available
 
 ## Download
 
-Download the latest NSIS installer from [GitHub Releases](../../releases/latest).
+Download the latest NSIS installer from [GitHub Releases](https://github.com/Moolmool114/codex-quota/releases/latest).
 
 Windows SmartScreen may warn about a new unsigned community application. Review the source and release checksum before installing.
 
@@ -95,6 +120,6 @@ Codex Quota 是一款适用于 Windows 的开源 Codex 用量查看器，可显�
 - 系统托盘、开机启动、最小化启动和关闭到托盘
 - 不上传提示词、对话、账户信息或额度数据
 
-请前往 [GitHub Releases](../../releases/latest) 下载最新 Windows 安装包。
+请前往 [GitHub Releases](https://github.com/Moolmool114/codex-quota/releases/latest) 下载最新 Windows 安装包。
 
 本项目是独立的开源社区项目，与 OpenAI 无隶属或官方认可关系。
